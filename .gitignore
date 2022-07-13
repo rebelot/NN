@@ -1,0 +1,8 @@
+.DS_store
+__pycache__/
+.mypy_cache/
+build/
+
+*.c
+runs/
+*.so
